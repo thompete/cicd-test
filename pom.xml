@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.thompete</groupId>
 	<artifactId>cicd-test</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>cicd-test</name>
 	<description>cicd-test</description>
 	<url/>
